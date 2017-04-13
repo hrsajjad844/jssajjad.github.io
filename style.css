@@ -1,0 +1,23 @@
+
+html,body {
+      margin:36;
+      color:Black;
+          }
+ h1{
+      font-family: 'Oswald', sans-serif;
+
+      color:Green;
+         }
+h3,h4,h5{
+    font-family: 'Oswald', sans-serif;
+    color:Blue;
+}
+ p   {
+        font-family: ' Open Sans', sans-serif ;
+        font-size:18px;
+        color:DarkSlateGray;
+     }
+     a  {
+       font-family: 'Anton', sans-serif;
+       color:FireBrick
+     }
